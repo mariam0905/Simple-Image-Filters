@@ -26,4 +26,4 @@ This project contains a set of basic image filters implemented in C++. It was bu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Image-Filters-Tool.git
+   git clone https://github.com/mariam0905/Image-Filters-Tool.git
